@@ -1,0 +1,29 @@
+.header{
+    text-align: center;
+}
+
+.objects{
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    
+}
+
+.panda:hover{
+    transform: scale(1.2);
+}
+
+.camel:hover{
+    transform: scale(1.2);
+}
+
+.pigeon:hover{
+    transform: scale(1.2);
+}
+
+a:link{
+    color:green
+}
+a:visited{
+    color: green;
+}
